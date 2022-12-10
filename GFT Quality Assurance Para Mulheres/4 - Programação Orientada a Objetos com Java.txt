@@ -1,0 +1,2 @@
+Após concluir essa etapa, realizar os 5 desafios de código da etapa:
+Dominando Algoritimos Intermediários com Desafios de Código Java.

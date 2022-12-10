@@ -1,0 +1,10 @@
+Após concluir essa etapa, reazlizar os 5 desafios de código da etapa:
+Dominando Algoritimos Básicos com Desafios de Código Java.
+
+Instrutores:
+Otávio Reis
+Venilton Falvo Jr
+Gleysson Sampaio 
+Thiago Leite
+ 
+Contém um desafio de projeto
